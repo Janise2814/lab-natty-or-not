@@ -14,5 +14,3 @@ O Copilot foi utilizado para criar o texto para o Ebook, o criador de imagens do
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
-## 💭 Reflexão 
-Comente sobre o desafio de criar algo 'natty' com IA.
