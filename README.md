@@ -5,7 +5,9 @@ Ebook contendo os conceitos iniciais do Excel para apresentar o programa as pess
 
 ## 🤖 Tecnologias Utilizadas
 Copilot - https://copilot.microsoft.com/
+
 Criador de Imagens do Bing - https://www.bing.com/images/create?cc=br
+
 Microsoft Power Point
 
 ## 🧐 Processo de Criação
